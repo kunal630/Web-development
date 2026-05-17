@@ -1,0 +1,44 @@
+.firstdiv{
+    color: red;
+    background-color: aqua;
+}
+
+#idselector{
+    color: aliceblue;
+    background-color: black;
+}
+
+span > p{
+    color: burlywood;
+    background-color: blueviolet;
+}
+
+div p{
+    color: rgb(48, 232, 12);
+    background-color: rgb(169, 64, 88);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a:visited{
+    color: green;
+}
+
+a:active{
+    color: aqua;
+}
+
+a:link{
+    color: chocolate;
+}
+
+a:hover{
+    color: blue;
+    background-color: rgb(210, 210, 25);
+}
+
+h3:first-child{
+    color:aqua;
+}
